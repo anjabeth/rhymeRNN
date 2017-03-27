@@ -34,11 +34,11 @@ output_path.write("Testing")
 print("Wrote test strings to file")
 
 print('corpus length:', len(text))
-output_path.write('corpus length:', len(text))
+output_path.write('corpus length:' + str(len(text)))
 
 chars = sorted(list(set(text)))
 print('total chars:', len(chars))
-output_path.write('total chars:', len(chars))
+output_path.write('total chars:' + str(len(chars)))
 
 char_indices = dict((c, i) for i, c in enumerate(chars))
 indices_char = dict((i, c) for i, c in enumerate(chars))
@@ -52,7 +52,7 @@ for i in range(0, len(text) - maxlen, step):
     sentences.append(text[i: i + maxlen])
     next_chars.append(text[i + maxlen])
 print('nb sequences:', len(sentences))
-output_path.write('nb sequences:', len(sentences))
+output_path.write('nb sequences:' + str(len(sentences)))
 
 print('Vectorization...')
 output_path.write("Vectorization...")
@@ -91,8 +91,8 @@ for iteration in range(1, 60):
     output_path.write("")
     print('-' * 50)
     output_path.write('-' * 50)
-    print('Iteration', iteration)
-    output_path.write("Iteration", iteration)
+    print('Iteration' , iteration)
+    output_path.write("Iteration" + str(iteration))
     model.fit(X, y,
               batch_size=128,
               epochs=1)
@@ -103,7 +103,7 @@ for iteration in range(1, 60):
         print()
 	output_path.write("")
         print('----- diversity:', diversity)
-	output_path.write('----- diversity:', diversity)
+	output_path.write('----- diversity:' + str(diversity))
         generated = ''
         sentence = text[start_index: start_index + maxlen]
         generated += sentence
