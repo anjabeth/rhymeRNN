@@ -20,12 +20,26 @@ import numpy as np
 import random
 import sys
 
-path = get_file('nietzsche.txt', origin='https://s3.amazonaws.com/text-datasets/nietzsche.txt')
+path = "theiliad_cleaned.txt"
 text = open(path).read().lower()
+
+#clear output file if anything has been written to it
+output_file = open("theiliad_output.txt", "w")
+output_file.write("")
+output_file.close()
+
+output_path = open("theiliad_output.txt", "a")
+output_path.write("Testing")
+
+print("Wrote test strings to file")
+
 print('corpus length:', len(text))
+output_path.write('corpus length:', len(text))
 
 chars = sorted(list(set(text)))
 print('total chars:', len(chars))
+output_path.write('total chars:', len(chars))
+
 char_indices = dict((c, i) for i, c in enumerate(chars))
 indices_char = dict((i, c) for i, c in enumerate(chars))
 
@@ -38,8 +52,10 @@ for i in range(0, len(text) - maxlen, step):
     sentences.append(text[i: i + maxlen])
     next_chars.append(text[i + maxlen])
 print('nb sequences:', len(sentences))
+output_path.write('nb sequences:', len(sentences))
 
 print('Vectorization...')
+output_path.write("Vectorization...")
 X = np.zeros((len(sentences), maxlen, len(chars)), dtype=np.bool)
 y = np.zeros((len(sentences), len(chars)), dtype=np.bool)
 for i, sentence in enumerate(sentences):
@@ -50,6 +66,7 @@ for i, sentence in enumerate(sentences):
 
 # build the model: a single LSTM
 print('Build model...')
+output_path.write("Build model....")
 model = Sequential()
 model.add(LSTM(128, input_shape=(maxlen, len(chars))))
 model.add(Dense(len(chars)))
@@ -71,8 +88,11 @@ def sample(preds, temperature=1.0):
 # train the model, output generated text after each iteration
 for iteration in range(1, 60):
     print()
+    output_path.write("")
     print('-' * 50)
+    output_path.write('-' * 50)
     print('Iteration', iteration)
+    output_path.write("Iteration", iteration)
     model.fit(X, y,
               batch_size=128,
               epochs=1)
@@ -81,13 +101,16 @@ for iteration in range(1, 60):
 
     for diversity in [0.2, 0.5, 1.0, 1.2]:
         print()
+	output_path.write("")
         print('----- diversity:', diversity)
-
+	output_path.write('----- diversity:', diversity)
         generated = ''
         sentence = text[start_index: start_index + maxlen]
         generated += sentence
         print('----- Generating with seed: "' + sentence + '"')
+	output_path.write('----- Generating with seed: "' + sentence + '"')
         sys.stdout.write(generated)
+	output_path.write(generated)
 
         for i in range(400):
             x = np.zeros((1, maxlen, len(chars)))
@@ -104,3 +127,6 @@ for iteration in range(1, 60):
             sys.stdout.write(next_char)
             sys.stdout.flush()
         print()
+	output_path.write("")
+
+output_path.close()
