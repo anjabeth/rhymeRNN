@@ -1,0 +1,457 @@
+Testingcorpus length:874209total chars:41nb sequences:291390Vectorization...Build model....--------------------------------------------------Iteration1----- diversity:0.2----- Generating with seed: "reat achilles' shining armour blazed:
+ "reat achilles' shining armour blazed:
+ ----- diversity:0.5----- Generating with seed: "reat achilles' shining armour blazed:
+ "reat achilles' shining armour blazed:
+ ----- diversity:1.0----- Generating with seed: "reat achilles' shining armour blazed:
+ "reat achilles' shining armour blazed:
+ ----- diversity:1.2----- Generating with seed: "reat achilles' shining armour blazed:
+ "reat achilles' shining armour blazed:
+ --------------------------------------------------Iteration2----- diversity:0.2----- Generating with seed: "l these atrides' mercy find?
+  well has"l these atrides' mercy find?
+  well has----- diversity:0.5----- Generating with seed: "l these atrides' mercy find?
+  well has"l these atrides' mercy find?
+  well has----- diversity:1.0----- Generating with seed: "l these atrides' mercy find?
+  well has"l these atrides' mercy find?
+  well has----- diversity:1.2----- Generating with seed: "l these atrides' mercy find?
+  well has"l these atrides' mercy find?
+  well has--------------------------------------------------Iteration3----- diversity:0.2----- Generating with seed: "home,
+  there guide the spindle, and di"home,
+  there guide the spindle, and di----- diversity:0.5----- Generating with seed: "home,
+  there guide the spindle, and di"home,
+  there guide the spindle, and di----- diversity:1.0----- Generating with seed: "home,
+  there guide the spindle, and di"home,
+  there guide the spindle, and di----- diversity:1.2----- Generating with seed: "home,
+  there guide the spindle, and di"home,
+  there guide the spindle, and di--------------------------------------------------Iteration4----- diversity:0.2----- Generating with seed: "
+  the various goddess of the rainbow fl"
+  the various goddess of the rainbow fl----- diversity:0.5----- Generating with seed: "
+  the various goddess of the rainbow fl"
+  the various goddess of the rainbow fl----- diversity:1.0----- Generating with seed: "
+  the various goddess of the rainbow fl"
+  the various goddess of the rainbow fl----- diversity:1.2----- Generating with seed: "
+  the various goddess of the rainbow fl"
+  the various goddess of the rainbow fl--------------------------------------------------Iteration5----- diversity:0.2----- Generating with seed: "h a bark to plough the watery plains,
+ "h a bark to plough the watery plains,
+ ----- diversity:0.5----- Generating with seed: "h a bark to plough the watery plains,
+ "h a bark to plough the watery plains,
+ ----- diversity:1.0----- Generating with seed: "h a bark to plough the watery plains,
+ "h a bark to plough the watery plains,
+ ----- diversity:1.2----- Generating with seed: "h a bark to plough the watery plains,
+ "h a bark to plough the watery plains,
+ --------------------------------------------------Iteration6----- diversity:0.2----- Generating with seed: "r his servant kill'd,
+  yet unrevenged "r his servant kill'd,
+  yet unrevenged ----- diversity:0.5----- Generating with seed: "r his servant kill'd,
+  yet unrevenged "r his servant kill'd,
+  yet unrevenged ----- diversity:1.0----- Generating with seed: "r his servant kill'd,
+  yet unrevenged "r his servant kill'd,
+  yet unrevenged ----- diversity:1.2----- Generating with seed: "r his servant kill'd,
+  yet unrevenged "r his servant kill'd,
+  yet unrevenged --------------------------------------------------Iteration7----- diversity:0.2----- Generating with seed: " instruments they take the road,
+  axes" instruments they take the road,
+  axes----- diversity:0.5----- Generating with seed: " instruments they take the road,
+  axes" instruments they take the road,
+  axes----- diversity:1.0----- Generating with seed: " instruments they take the road,
+  axes" instruments they take the road,
+  axes----- diversity:1.2----- Generating with seed: " instruments they take the road,
+  axes" instruments they take the road,
+  axes--------------------------------------------------Iteration8----- diversity:0.2----- Generating with seed: "ength extended lay,
+  compacted troops "ength extended lay,
+  compacted troops ----- diversity:0.5----- Generating with seed: "ength extended lay,
+  compacted troops "ength extended lay,
+  compacted troops ----- diversity:1.0----- Generating with seed: "ength extended lay,
+  compacted troops "ength extended lay,
+  compacted troops ----- diversity:1.2----- Generating with seed: "ength extended lay,
+  compacted troops "ength extended lay,
+  compacted troops --------------------------------------------------Iteration9----- diversity:0.2----- Generating with seed: "yielding tide.
+  one was amphimachus, a"yielding tide.
+  one was amphimachus, a----- diversity:0.5----- Generating with seed: "yielding tide.
+  one was amphimachus, a"yielding tide.
+  one was amphimachus, a----- diversity:1.0----- Generating with seed: "yielding tide.
+  one was amphimachus, a"yielding tide.
+  one was amphimachus, a----- diversity:1.2----- Generating with seed: "yielding tide.
+  one was amphimachus, a"yielding tide.
+  one was amphimachus, a--------------------------------------------------Iteration10----- diversity:0.2----- Generating with seed: "ell the youth; the air his soul received"ell the youth; the air his soul received----- diversity:0.5----- Generating with seed: "ell the youth; the air his soul received"ell the youth; the air his soul received----- diversity:1.0----- Generating with seed: "ell the youth; the air his soul received"ell the youth; the air his soul received----- diversity:1.2----- Generating with seed: "ell the youth; the air his soul received"ell the youth; the air his soul received--------------------------------------------------Iteration11----- diversity:0.2----- Generating with seed: "d persuasive gold."
+
+  these words, at"d persuasive gold."
+
+  these words, at----- diversity:0.5----- Generating with seed: "d persuasive gold."
+
+  these words, at"d persuasive gold."
+
+  these words, at----- diversity:1.0----- Generating with seed: "d persuasive gold."
+
+  these words, at"d persuasive gold."
+
+  these words, at----- diversity:1.2----- Generating with seed: "d persuasive gold."
+
+  these words, at"d persuasive gold."
+
+  these words, at--------------------------------------------------Iteration12----- diversity:0.2----- Generating with seed: "umnal year.
+  to these a youth awakes t"umnal year.
+  to these a youth awakes t----- diversity:0.5----- Generating with seed: "umnal year.
+  to these a youth awakes t"umnal year.
+  to these a youth awakes t----- diversity:1.0----- Generating with seed: "umnal year.
+  to these a youth awakes t"umnal year.
+  to these a youth awakes t----- diversity:1.2----- Generating with seed: "umnal year.
+  to these a youth awakes t"umnal year.
+  to these a youth awakes t--------------------------------------------------Iteration13----- diversity:0.2----- Generating with seed: "on clad;
+  and forth she paced, majesti"on clad;
+  and forth she paced, majesti----- diversity:0.5----- Generating with seed: "on clad;
+  and forth she paced, majesti"on clad;
+  and forth she paced, majesti----- diversity:1.0----- Generating with seed: "on clad;
+  and forth she paced, majesti"on clad;
+  and forth she paced, majesti----- diversity:1.2----- Generating with seed: "on clad;
+  and forth she paced, majesti"on clad;
+  and forth she paced, majesti--------------------------------------------------Iteration14----- diversity:0.2----- Generating with seed: "empest rain'd;
+   wood of spears his am"empest rain'd;
+   wood of spears his am----- diversity:0.5----- Generating with seed: "empest rain'd;
+   wood of spears his am"empest rain'd;
+   wood of spears his am----- diversity:1.0----- Generating with seed: "empest rain'd;
+   wood of spears his am"empest rain'd;
+   wood of spears his am----- diversity:1.2----- Generating with seed: "empest rain'd;
+   wood of spears his am"empest rain'd;
+   wood of spears his am--------------------------------------------------Iteration15----- diversity:0.2----- Generating with seed: "k the chariot at a bound,
+  and snatch'"k the chariot at a bound,
+  and snatch'----- diversity:0.5----- Generating with seed: "k the chariot at a bound,
+  and snatch'"k the chariot at a bound,
+  and snatch'----- diversity:1.0----- Generating with seed: "k the chariot at a bound,
+  and snatch'"k the chariot at a bound,
+  and snatch'----- diversity:1.2----- Generating with seed: "k the chariot at a bound,
+  and snatch'"k the chariot at a bound,
+  and snatch'--------------------------------------------------Iteration16----- diversity:0.2----- Generating with seed: "splendent dames.
+  first stood the priz"splendent dames.
+  first stood the priz----- diversity:0.5----- Generating with seed: "splendent dames.
+  first stood the priz"splendent dames.
+  first stood the priz----- diversity:1.0----- Generating with seed: "splendent dames.
+  first stood the priz"splendent dames.
+  first stood the priz----- diversity:1.2----- Generating with seed: "splendent dames.
+  first stood the priz"splendent dames.
+  first stood the priz--------------------------------------------------Iteration17----- diversity:0.2----- Generating with seed: "ld and burning with desire of fame,
+  c"ld and burning with desire of fame,
+  c----- diversity:0.5----- Generating with seed: "ld and burning with desire of fame,
+  c"ld and burning with desire of fame,
+  c----- diversity:1.0----- Generating with seed: "ld and burning with desire of fame,
+  c"ld and burning with desire of fame,
+  c----- diversity:1.2----- Generating with seed: "ld and burning with desire of fame,
+  c"ld and burning with desire of fame,
+  c--------------------------------------------------Iteration18----- diversity:0.2----- Generating with seed: "arms:
+  "oh stain to honour! oh disgrac"arms:
+  "oh stain to honour! oh disgrac----- diversity:0.5----- Generating with seed: "arms:
+  "oh stain to honour! oh disgrac"arms:
+  "oh stain to honour! oh disgrac----- diversity:1.0----- Generating with seed: "arms:
+  "oh stain to honour! oh disgrac"arms:
+  "oh stain to honour! oh disgrac----- diversity:1.2----- Generating with seed: "arms:
+  "oh stain to honour! oh disgrac"arms:
+  "oh stain to honour! oh disgrac--------------------------------------------------Iteration19----- diversity:0.2----- Generating with seed: "ust, lay here and there
+  dishonour'd r"ust, lay here and there
+  dishonour'd r----- diversity:0.5----- Generating with seed: "ust, lay here and there
+  dishonour'd r"ust, lay here and there
+  dishonour'd r----- diversity:1.0----- Generating with seed: "ust, lay here and there
+  dishonour'd r"ust, lay here and there
+  dishonour'd r----- diversity:1.2----- Generating with seed: "ust, lay here and there
+  dishonour'd r"ust, lay here and there
+  dishonour'd r--------------------------------------------------Iteration20----- diversity:0.2----- Generating with seed: ";
+  but jove he dreads, nor wars agains";
+  but jove he dreads, nor wars agains----- diversity:0.5----- Generating with seed: ";
+  but jove he dreads, nor wars agains";
+  but jove he dreads, nor wars agains----- diversity:1.0----- Generating with seed: ";
+  but jove he dreads, nor wars agains";
+  but jove he dreads, nor wars agains----- diversity:1.2----- Generating with seed: ";
+  but jove he dreads, nor wars agains";
+  but jove he dreads, nor wars agains--------------------------------------------------Iteration21----- diversity:0.2----- Generating with seed: "
+  and pitch your lances in the yieldin"
+  and pitch your lances in the yieldin----- diversity:0.5----- Generating with seed: "
+  and pitch your lances in the yieldin"
+  and pitch your lances in the yieldin----- diversity:1.0----- Generating with seed: "
+  and pitch your lances in the yieldin"
+  and pitch your lances in the yieldin----- diversity:1.2----- Generating with seed: "
+  and pitch your lances in the yieldin"
+  and pitch your lances in the yieldin--------------------------------------------------Iteration22----- diversity:0.2----- Generating with seed: "nd in his arms thy death.
+  unfortunate"nd in his arms thy death.
+  unfortunate----- diversity:0.5----- Generating with seed: "nd in his arms thy death.
+  unfortunate"nd in his arms thy death.
+  unfortunate----- diversity:1.0----- Generating with seed: "nd in his arms thy death.
+  unfortunate"nd in his arms thy death.
+  unfortunate----- diversity:1.2----- Generating with seed: "nd in his arms thy death.
+  unfortunate"nd in his arms thy death.
+  unfortunate--------------------------------------------------Iteration23----- diversity:0.2----- Generating with seed: "ns may sue for thee;
+  may offer all th"ns may sue for thee;
+  may offer all th----- diversity:0.5----- Generating with seed: "ns may sue for thee;
+  may offer all th"ns may sue for thee;
+  may offer all th----- diversity:1.0----- Generating with seed: "ns may sue for thee;
+  may offer all th"ns may sue for thee;
+  may offer all th----- diversity:1.2----- Generating with seed: "ns may sue for thee;
+  may offer all th"ns may sue for thee;
+  may offer all th--------------------------------------------------Iteration24----- diversity:0.2----- Generating with seed: "helm's the bridge, and bursts the lofty "helm's the bridge, and bursts the lofty ----- diversity:0.5----- Generating with seed: "helm's the bridge, and bursts the lofty "helm's the bridge, and bursts the lofty ----- diversity:1.0----- Generating with seed: "helm's the bridge, and bursts the lofty "helm's the bridge, and bursts the lofty ----- diversity:1.2----- Generating with seed: "helm's the bridge, and bursts the lofty "helm's the bridge, and bursts the lofty --------------------------------------------------Iteration25----- diversity:0.2----- Generating with seed: ", a silver sheath encased
+  the shining", a silver sheath encased
+  the shining----- diversity:0.5----- Generating with seed: ", a silver sheath encased
+  the shining", a silver sheath encased
+  the shining----- diversity:1.0----- Generating with seed: ", a silver sheath encased
+  the shining", a silver sheath encased
+  the shining----- diversity:1.2----- Generating with seed: ", a silver sheath encased
+  the shining", a silver sheath encased
+  the shining--------------------------------------------------Iteration26----- diversity:0.2----- Generating with seed: "oked by both, relentless they dispose,
+"oked by both, relentless they dispose,
+----- diversity:0.5----- Generating with seed: "oked by both, relentless they dispose,
+"oked by both, relentless they dispose,
+----- diversity:1.0----- Generating with seed: "oked by both, relentless they dispose,
+"oked by both, relentless they dispose,
+----- diversity:1.2----- Generating with seed: "oked by both, relentless they dispose,
+"oked by both, relentless they dispose,
+--------------------------------------------------Iteration27----- diversity:0.2----- Generating with seed: "  then parting from the pile he ceased t"  then parting from the pile he ceased t----- diversity:0.5----- Generating with seed: "  then parting from the pile he ceased t"  then parting from the pile he ceased t----- diversity:1.0----- Generating with seed: "  then parting from the pile he ceased t"  then parting from the pile he ceased t----- diversity:1.2----- Generating with seed: "  then parting from the pile he ceased t"  then parting from the pile he ceased t--------------------------------------------------Iteration28----- diversity:0.2----- Generating with seed: "e 'o greece for future times to tell,
+ "e 'o greece for future times to tell,
+ ----- diversity:0.5----- Generating with seed: "e 'o greece for future times to tell,
+ "e 'o greece for future times to tell,
+ ----- diversity:1.0----- Generating with seed: "e 'o greece for future times to tell,
+ "e 'o greece for future times to tell,
+ ----- diversity:1.2----- Generating with seed: "e 'o greece for future times to tell,
+ "e 'o greece for future times to tell,
+ --------------------------------------------------Iteration29----- diversity:0.2----- Generating with seed: "k proud hector's hopes confirm'd by jove"k proud hector's hopes confirm'd by jove----- diversity:0.5----- Generating with seed: "k proud hector's hopes confirm'd by jove"k proud hector's hopes confirm'd by jove----- diversity:1.0----- Generating with seed: "k proud hector's hopes confirm'd by jove"k proud hector's hopes confirm'd by jove----- diversity:1.2----- Generating with seed: "k proud hector's hopes confirm'd by jove"k proud hector's hopes confirm'd by jove--------------------------------------------------Iteration30----- diversity:0.2----- Generating with seed: "close, on the left, the bold boeotians' "close, on the left, the bold boeotians' ----- diversity:0.5----- Generating with seed: "close, on the left, the bold boeotians' "close, on the left, the bold boeotians' ----- diversity:1.0----- Generating with seed: "close, on the left, the bold boeotians' "close, on the left, the bold boeotians' ----- diversity:1.2----- Generating with seed: "close, on the left, the bold boeotians' "close, on the left, the bold boeotians' --------------------------------------------------Iteration31----- diversity:0.2----- Generating with seed: "ble father stands;
+  apollo's awful ens"ble father stands;
+  apollo's awful ens----- diversity:0.5----- Generating with seed: "ble father stands;
+  apollo's awful ens"ble father stands;
+  apollo's awful ens----- diversity:1.0----- Generating with seed: "ble father stands;
+  apollo's awful ens"ble father stands;
+  apollo's awful ens----- diversity:1.2----- Generating with seed: "ble father stands;
+  apollo's awful ens"ble father stands;
+  apollo's awful ens--------------------------------------------------Iteration32----- diversity:0.2----- Generating with seed: "al sleight,
+  than worn to toils, and a"al sleight,
+  than worn to toils, and a----- diversity:0.5----- Generating with seed: "al sleight,
+  than worn to toils, and a"al sleight,
+  than worn to toils, and a----- diversity:1.0----- Generating with seed: "al sleight,
+  than worn to toils, and a"al sleight,
+  than worn to toils, and a----- diversity:1.2----- Generating with seed: "al sleight,
+  than worn to toils, and a"al sleight,
+  than worn to toils, and a--------------------------------------------------Iteration33----- diversity:0.2----- Generating with seed: " my fate!
+  how more than wretched in t" my fate!
+  how more than wretched in t----- diversity:0.5----- Generating with seed: " my fate!
+  how more than wretched in t" my fate!
+  how more than wretched in t----- diversity:1.0----- Generating with seed: " my fate!
+  how more than wretched in t" my fate!
+  how more than wretched in t----- diversity:1.2----- Generating with seed: " my fate!
+  how more than wretched in t" my fate!
+  how more than wretched in t--------------------------------------------------Iteration34----- diversity:0.2----- Generating with seed: "e phrygian plain,
+  and from the fight "e phrygian plain,
+  and from the fight ----- diversity:0.5----- Generating with seed: "e phrygian plain,
+  and from the fight "e phrygian plain,
+  and from the fight ----- diversity:1.0----- Generating with seed: "e phrygian plain,
+  and from the fight "e phrygian plain,
+  and from the fight ----- diversity:1.2----- Generating with seed: "e phrygian plain,
+  and from the fight "e phrygian plain,
+  and from the fight --------------------------------------------------Iteration35----- diversity:0.2----- Generating with seed: "urn:
+  while those deputed to inter the"urn:
+  while those deputed to inter the----- diversity:0.5----- Generating with seed: "urn:
+  while those deputed to inter the"urn:
+  while those deputed to inter the----- diversity:1.0----- Generating with seed: "urn:
+  while those deputed to inter the"urn:
+  while those deputed to inter the----- diversity:1.2----- Generating with seed: "urn:
+  while those deputed to inter the"urn:
+  while those deputed to inter the--------------------------------------------------Iteration36----- diversity:0.2----- Generating with seed: "w'd the plain,
+  alcander, prytanis, no"w'd the plain,
+  alcander, prytanis, no----- diversity:0.5----- Generating with seed: "w'd the plain,
+  alcander, prytanis, no"w'd the plain,
+  alcander, prytanis, no----- diversity:1.0----- Generating with seed: "w'd the plain,
+  alcander, prytanis, no"w'd the plain,
+  alcander, prytanis, no----- diversity:1.2----- Generating with seed: "w'd the plain,
+  alcander, prytanis, no"w'd the plain,
+  alcander, prytanis, no--------------------------------------------------Iteration37----- diversity:0.2----- Generating with seed: "and, encounter force with force.
+  now "and, encounter force with force.
+  now ----- diversity:0.5----- Generating with seed: "and, encounter force with force.
+  now "and, encounter force with force.
+  now ----- diversity:1.0----- Generating with seed: "and, encounter force with force.
+  now "and, encounter force with force.
+  now ----- diversity:1.2----- Generating with seed: "and, encounter force with force.
+  now "and, encounter force with force.
+  now --------------------------------------------------Iteration38----- diversity:0.2----- Generating with seed: "t in vain:
+  on their whole war, untame"t in vain:
+  on their whole war, untame----- diversity:0.5----- Generating with seed: "t in vain:
+  on their whole war, untame"t in vain:
+  on their whole war, untame----- diversity:1.0----- Generating with seed: "t in vain:
+  on their whole war, untame"t in vain:
+  on their whole war, untame----- diversity:1.2----- Generating with seed: "t in vain:
+  on their whole war, untame"t in vain:
+  on their whole war, untame--------------------------------------------------Iteration39----- diversity:0.2----- Generating with seed: "to fear."
+
+  the warrior spoke; the li"to fear."
+
+  the warrior spoke; the li----- diversity:0.5----- Generating with seed: "to fear."
+
+  the warrior spoke; the li"to fear."
+
+  the warrior spoke; the li----- diversity:1.0----- Generating with seed: "to fear."
+
+  the warrior spoke; the li"to fear."
+
+  the warrior spoke; the li----- diversity:1.2----- Generating with seed: "to fear."
+
+  the warrior spoke; the li"to fear."
+
+  the warrior spoke; the li--------------------------------------------------Iteration40----- diversity:0.2----- Generating with seed: " and horrid woes prepare
+  for perjured" and horrid woes prepare
+  for perjured----- diversity:0.5----- Generating with seed: " and horrid woes prepare
+  for perjured" and horrid woes prepare
+  for perjured----- diversity:1.0----- Generating with seed: " and horrid woes prepare
+  for perjured" and horrid woes prepare
+  for perjured----- diversity:1.2----- Generating with seed: " and horrid woes prepare
+  for perjured" and horrid woes prepare
+  for perjured--------------------------------------------------Iteration41----- diversity:0.2----- Generating with seed: "uts of fight."
+
+  thus having spoke, t"uts of fight."
+
+  thus having spoke, t----- diversity:0.5----- Generating with seed: "uts of fight."
+
+  thus having spoke, t"uts of fight."
+
+  thus having spoke, t----- diversity:1.0----- Generating with seed: "uts of fight."
+
+  thus having spoke, t"uts of fight."
+
+  thus having spoke, t----- diversity:1.2----- Generating with seed: "uts of fight."
+
+  thus having spoke, t"uts of fight."
+
+  thus having spoke, t--------------------------------------------------Iteration42----- diversity:0.2----- Generating with seed: "oul supplies a form so fair.
+  in forme"oul supplies a form so fair.
+  in forme----- diversity:0.5----- Generating with seed: "oul supplies a form so fair.
+  in forme"oul supplies a form so fair.
+  in forme----- diversity:1.0----- Generating with seed: "oul supplies a form so fair.
+  in forme"oul supplies a form so fair.
+  in forme----- diversity:1.2----- Generating with seed: "oul supplies a form so fair.
+  in forme"oul supplies a form so fair.
+  in forme--------------------------------------------------Iteration43----- diversity:0.2----- Generating with seed: "mer days.
+
+  "where calydon on rocky m"mer days.
+
+  "where calydon on rocky m----- diversity:0.5----- Generating with seed: "mer days.
+
+  "where calydon on rocky m"mer days.
+
+  "where calydon on rocky m----- diversity:1.0----- Generating with seed: "mer days.
+
+  "where calydon on rocky m"mer days.
+
+  "where calydon on rocky m----- diversity:1.2----- Generating with seed: "mer days.
+
+  "where calydon on rocky m"mer days.
+
+  "where calydon on rocky m--------------------------------------------------Iteration44----- diversity:0.2----- Generating with seed: "e day
+  then with his sevenfold shield "e day
+  then with his sevenfold shield ----- diversity:0.5----- Generating with seed: "e day
+  then with his sevenfold shield "e day
+  then with his sevenfold shield ----- diversity:1.0----- Generating with seed: "e day
+  then with his sevenfold shield "e day
+  then with his sevenfold shield ----- diversity:1.2----- Generating with seed: "e day
+  then with his sevenfold shield "e day
+  then with his sevenfold shield --------------------------------------------------Iteration45----- diversity:0.2----- Generating with seed: "adrons shine
+  in flaming arms, a long-"adrons shine
+  in flaming arms, a long------ diversity:0.5----- Generating with seed: "adrons shine
+  in flaming arms, a long-"adrons shine
+  in flaming arms, a long------ diversity:1.0----- Generating with seed: "adrons shine
+  in flaming arms, a long-"adrons shine
+  in flaming arms, a long------ diversity:1.2----- Generating with seed: "adrons shine
+  in flaming arms, a long-"adrons shine
+  in flaming arms, a long---------------------------------------------------Iteration46----- diversity:0.2----- Generating with seed: " years, or sense.
+  thou know'st the er" years, or sense.
+  thou know'st the er----- diversity:0.5----- Generating with seed: " years, or sense.
+  thou know'st the er" years, or sense.
+  thou know'st the er----- diversity:1.0----- Generating with seed: " years, or sense.
+  thou know'st the er" years, or sense.
+  thou know'st the er----- diversity:1.2----- Generating with seed: " years, or sense.
+  thou know'st the er" years, or sense.
+  thou know'st the er--------------------------------------------------Iteration47----- diversity:0.2----- Generating with seed: "loods,)
+  loud sounds the axe, redoubli"loods,)
+  loud sounds the axe, redoubli----- diversity:0.5----- Generating with seed: "loods,)
+  loud sounds the axe, redoubli"loods,)
+  loud sounds the axe, redoubli----- diversity:1.0----- Generating with seed: "loods,)
+  loud sounds the axe, redoubli"loods,)
+  loud sounds the axe, redoubli----- diversity:1.2----- Generating with seed: "loods,)
+  loud sounds the axe, redoubli"loods,)
+  loud sounds the axe, redoubli--------------------------------------------------Iteration48----- diversity:0.2----- Generating with seed: "achilles stood
+  the crimson surge, and"achilles stood
+  the crimson surge, and----- diversity:0.5----- Generating with seed: "achilles stood
+  the crimson surge, and"achilles stood
+  the crimson surge, and----- diversity:1.0----- Generating with seed: "achilles stood
+  the crimson surge, and"achilles stood
+  the crimson surge, and----- diversity:1.2----- Generating with seed: "achilles stood
+  the crimson surge, and"achilles stood
+  the crimson surge, and--------------------------------------------------Iteration49----- diversity:0.2----- Generating with seed: " springs;
+  at every bound his clanging" springs;
+  at every bound his clanging----- diversity:0.5----- Generating with seed: " springs;
+  at every bound his clanging" springs;
+  at every bound his clanging----- diversity:1.0----- Generating with seed: " springs;
+  at every bound his clanging" springs;
+  at every bound his clanging----- diversity:1.2----- Generating with seed: " springs;
+  at every bound his clanging" springs;
+  at every bound his clanging--------------------------------------------------Iteration50----- diversity:0.2----- Generating with seed: "
+  (all trembling on the verge of helpl"
+  (all trembling on the verge of helpl----- diversity:0.5----- Generating with seed: "
+  (all trembling on the verge of helpl"
+  (all trembling on the verge of helpl----- diversity:1.0----- Generating with seed: "
+  (all trembling on the verge of helpl"
+  (all trembling on the verge of helpl----- diversity:1.2----- Generating with seed: "
+  (all trembling on the verge of helpl"
+  (all trembling on the verge of helpl--------------------------------------------------Iteration51----- diversity:0.2----- Generating with seed: "g of kings:
+  whom rich echepolus (more"g of kings:
+  whom rich echepolus (more----- diversity:0.5----- Generating with seed: "g of kings:
+  whom rich echepolus (more"g of kings:
+  whom rich echepolus (more----- diversity:1.0----- Generating with seed: "g of kings:
+  whom rich echepolus (more"g of kings:
+  whom rich echepolus (more----- diversity:1.2----- Generating with seed: "g of kings:
+  whom rich echepolus (more"g of kings:
+  whom rich echepolus (more--------------------------------------------------Iteration52----- diversity:0.2----- Generating with seed: "s menace, this insulting strain?
+  enor"s menace, this insulting strain?
+  enor----- diversity:0.5----- Generating with seed: "s menace, this insulting strain?
+  enor"s menace, this insulting strain?
+  enor----- diversity:1.0----- Generating with seed: "s menace, this insulting strain?
+  enor"s menace, this insulting strain?
+  enor----- diversity:1.2----- Generating with seed: "s menace, this insulting strain?
+  enor"s menace, this insulting strain?
+  enor--------------------------------------------------Iteration53----- diversity:0.2----- Generating with seed: "all quit the fight,
+  and ilion tumble "all quit the fight,
+  and ilion tumble ----- diversity:0.5----- Generating with seed: "all quit the fight,
+  and ilion tumble "all quit the fight,
+  and ilion tumble ----- diversity:1.0----- Generating with seed: "all quit the fight,
+  and ilion tumble "all quit the fight,
+  and ilion tumble ----- diversity:1.2----- Generating with seed: "all quit the fight,
+  and ilion tumble "all quit the fight,
+  and ilion tumble --------------------------------------------------Iteration54----- diversity:0.2----- Generating with seed: "cred light,
+  when not a breath disturb"cred light,
+  when not a breath disturb----- diversity:0.5----- Generating with seed: "cred light,
+  when not a breath disturb"cred light,
+  when not a breath disturb----- diversity:1.0----- Generating with seed: "cred light,
+  when not a breath disturb"cred light,
+  when not a breath disturb----- diversity:1.2----- Generating with seed: "cred light,
+  when not a breath disturb"cred light,
+  when not a breath disturb--------------------------------------------------Iteration55----- diversity:0.2----- Generating with seed: "new glories to his mighty name.
+  think"new glories to his mighty name.
+  think----- diversity:0.5----- Generating with seed: "new glories to his mighty name.
+  think"new glories to his mighty name.
+  think----- diversity:1.0----- Generating with seed: "new glories to his mighty name.
+  think"new glories to his mighty name.
+  think----- diversity:1.2----- Generating with seed: "new glories to his mighty name.
+  think"new glories to his mighty name.
+  think--------------------------------------------------Iteration56----- diversity:0.2----- Generating with seed: "ard greek advance,
+  and snatch the glo"ard greek advance,
+  and snatch the glo----- diversity:0.5----- Generating with seed: "ard greek advance,
+  and snatch the glo"ard greek advance,
+  and snatch the glo----- diversity:1.0----- Generating with seed: "ard greek advance,
+  and snatch the glo"ard greek advance,
+  and snatch the glo----- diversity:1.2----- Generating with seed: "ard greek advance,
+  and snatch the glo"ard greek advance,
+  and snatch the glo--------------------------------------------------Iteration57----- diversity:0.2----- Generating with seed: "oeneus the strong, bellerophon the bold:"oeneus the strong, bellerophon the bold:----- diversity:0.5----- Generating with seed: "oeneus the strong, bellerophon the bold:"oeneus the strong, bellerophon the bold:----- diversity:1.0----- Generating with seed: "oeneus the strong, bellerophon the bold:"oeneus the strong, bellerophon the bold:----- diversity:1.2----- Generating with seed: "oeneus the strong, bellerophon the bold:"oeneus the strong, bellerophon the bold:--------------------------------------------------Iteration58----- diversity:0.2----- Generating with seed: "he first he fought,
+  faced every foe, "he first he fought,
+  faced every foe, ----- diversity:0.5----- Generating with seed: "he first he fought,
+  faced every foe, "he first he fought,
+  faced every foe, ----- diversity:1.0----- Generating with seed: "he first he fought,
+  faced every foe, "he first he fought,
+  faced every foe, ----- diversity:1.2----- Generating with seed: "he first he fought,
+  faced every foe, "he first he fought,
+  faced every foe, --------------------------------------------------Iteration59----- diversity:0.2----- Generating with seed: "ds and massy beams defend,
+  while thes"ds and massy beams defend,
+  while thes----- diversity:0.5----- Generating with seed: "ds and massy beams defend,
+  while thes"ds and massy beams defend,
+  while thes----- diversity:1.0----- Generating with seed: "ds and massy beams defend,
+  while thes"ds and massy beams defend,
+  while thes----- diversity:1.2----- Generating with seed: "ds and massy beams defend,
+  while thes"ds and massy beams defend,
+  while thes
